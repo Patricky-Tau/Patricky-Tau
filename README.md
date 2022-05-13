@@ -10,6 +10,5 @@
 
 <!-- [![](https://profile-counter.glitch.me/Patricky-Tau/count.svg)](https://github.com/Patricky-Tau) -->
 
---------------------------------
 [zhihu]:https://www.zhihu.com/people/patricky-tekola "Zhihu is a Chinese platform for questioning and answering"
 [zhihu-shield]:https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=Patricky&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dpatricky-tekola
