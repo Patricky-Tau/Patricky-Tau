@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Patricky 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Patricky-Tau&show_icons=false&theme=light">
+### Hi there 👋 I'm Patricky <img align="right" src="https://github-readme-stats.vercel.app/api?username=Patricky-Tau&show_icons=false&theme=light">
 
 ![GitHub followers](https://img.shields.io/github/followers/Patricky-Tau?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/Patricky-Tau?style=social) [![zhihu-shield]][zhihu]
 
