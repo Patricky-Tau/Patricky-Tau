@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Patricky 
 
-<!--
-**Patricky-Tau/Patricky-Tau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Patricky&show_icons=false&theme=light">
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/Patricky-Tau?style=social)   ![GitHub User's
+stars](https://img.shields.io/github/stars/Patricky-Tau?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning cp-Algorithm and `C++`.
+- 🤔 I’m looking for help with maintenance work for some front-end project.
+- ⚡ Fun fact: Oh my gosh! The account [Patricky](https://github.com/patricky) is alread in use. 😭
+
+### Github Visitors
+
+[![](https://profile-counter.glitch.me/Patricky-Tau/count.svg)](https://github.com/Patricky-Tau)
+
